@@ -1,3 +1,3 @@
 def catch_phrase(phase)
-  puts phrase = 
+  puts phrase = "It s-a me Mario"
 end
